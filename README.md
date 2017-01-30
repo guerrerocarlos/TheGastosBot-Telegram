@@ -8,5 +8,6 @@ Instalación
 ------
 
 >  npm install
+
 >  node bot.js
 
