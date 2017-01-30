@@ -11,3 +11,6 @@ Instalación
 
 >  node bot.js
 
+
+
+![Video demostrativo](https://raw.githubusercontent.com/guerrerocarlos/carlosguerrero.com/master/assets/aGIFsmall.gif)
