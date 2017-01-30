@@ -6,6 +6,7 @@ Este repositorio muestra el código escrito durante el curso en youtube:
 
 Instalación
 ------
-  npm install
-  node bot.js
+
+>  npm install
+>  node bot.js
 
