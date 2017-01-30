@@ -1,0 +1,34 @@
+{
+  "name": "thegastosbot",
+  "version": "1.0.0",
+  "description": "Bot para guardar gastos directamente en Google Drive desde Telegram",
+  "main": "bot.js",
+  "dependencies": {
+    "edit-google-spreadsheet": "^0.2.21",
+    "money": "^0.2.0",
+    "moment": "^2.17.1",
+    "node-telegram-bot-api": "^0.26.0",
+    "openexchangerates-api": "^0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test_strings.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/guerrerocarlos/TheGastosBot-Telegram.git"
+  },
+  "keywords": [
+    "Telegram",
+    "Bot",
+    "Google",
+    "Drive",
+    "Spreadsheet"
+  ],
+  "author": "Carlos Guerrero <guerrerocarlos@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guerrerocarlos/TheGastosBot-Telegram/issues"
+  },
+  "homepage": "https://github.com/guerrerocarlos/TheGastosBot-Telegram#readme"
+}
